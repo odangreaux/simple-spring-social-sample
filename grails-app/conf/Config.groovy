@@ -101,3 +101,8 @@ grails.plugin.simplespringsocial.twitter.consumerKey = "R3GMgraxhm0q9GO8tUTeBQ"
 grails.plugin.simplespringsocial.twitter.consumerSecret = "PqesbsaqGsDrvaBGBQGueJajaxv7KCgXkPr8J92z3tw"
 grails.plugin.simplespringsocial.twitter.loginSuccess.controller = "authentication"
 grails.plugin.simplespringsocial.twitter.loginSuccess.action = "twitterLoginSuccess"
+
+grails.plugin.simplespringsocial.google.clientId = "17560890951.apps.googleusercontent.com"
+grails.plugin.simplespringsocial.google.clientSecret = "s8vC4XuTK9GG-MSoKdchJaeg"
+grails.plugin.simplespringsocial.google.loginSuccess.controller = "authentication"
+grails.plugin.simplespringsocial.google.loginSuccess.action = "googleLoginSuccess"

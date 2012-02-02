@@ -19,7 +19,9 @@
     </facet>
     <facet type="hibernate" name="Hibernate">
       <configuration>
-        <datasource-map />
+        <datasource-map>
+          <unit-entry name="Gorm" />
+        </datasource-map>
       </configuration>
     </facet>
   </component>
@@ -65,6 +67,7 @@
     <orderEntry type="module" module-name="simple-spring-social-facebook" exported="" />
     <orderEntry type="module" module-name="simple-spring-social-sample-grailsPlugins" />
     <orderEntry type="module" module-name="simple-spring-social-twitter" exported="" />
+    <orderEntry type="module" module-name="simple-spring-social-google" exported="" />
   </component>
 </module>
 

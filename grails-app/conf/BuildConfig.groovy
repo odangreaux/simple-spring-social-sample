@@ -47,3 +47,4 @@ grails.project.dependency.resolution = {
 
 grails.plugin.location.'simple-spring-social-facebook' = "../simple-spring-social-facebook"
 grails.plugin.location.'simple-spring-social-twitter' = "../simple-spring-social-twitter"
+grails.plugin.location.'simple-spring-social-google' = "../simple-spring-social-google"
