@@ -1,1 +1,17 @@
 target
+
+*.prefs
+
+.settings/org.eclipse.wst.common.project.facet.core.xml
+
+*.class
+
+target-eclipse/classes/messages.properties
+
+.classpath
+
+.project
+
+.settings/org.codehaus.groovy.eclipse.preferences.prefs
+
+.settings/org.codehaus.groovy.eclipse.preferences.prefs
